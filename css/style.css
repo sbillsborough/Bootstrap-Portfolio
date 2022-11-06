@@ -1,5 +1,10 @@
 /* Nav Bar */
 
+.logo {
+  font-size: 1.4rem;
+  padding: 5px;
+}
+
 .navBar {
   display: flex;
   justify-content: space-between;
