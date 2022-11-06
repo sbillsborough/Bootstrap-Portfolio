@@ -1,5 +1,4 @@
-h2,
-h5 {
+h2 {
   text-align: center;
 }
 
@@ -46,4 +45,8 @@ h5 {
 .card-body {
   background: rgb(119, 119, 119, 0.3);
   text-align: center;
+}
+
+.card-text {
+  text-align: left;
 }
