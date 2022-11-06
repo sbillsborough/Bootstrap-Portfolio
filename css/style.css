@@ -80,8 +80,17 @@ h2,
   padding: 20px;
 }
 
+.info {
+  grid-area: information;
+  background: green;
+  grid-row: 1 / 2;
+}
+
 .contact {
   text-align: center;
+  grid-area: contact;
+  background: yellow;
+  grid-row: 1 / 2;
 }
 
 /* Footer */
