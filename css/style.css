@@ -54,6 +54,11 @@ h2,
 
 /* Skills Section */
 
+.skills {
+  background: var(--background-color);
+  padding: 20px;
+}
+
 .list-group {
   margin: 0 auto;
   text-align: center;
@@ -62,10 +67,15 @@ h2,
 
 /* About / Contact */
 
-.about-contact {
+.about {
+  background: var(--background-color);
+}
+
+.about-info {
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-areas: "information contact";
+  padding: 20px;
 }
 
 .contact {
@@ -75,6 +85,7 @@ h2,
 /* Footer */
 
 footer {
+  margin-top: 10px;
   display: flex;
   justify-content: center;
   border-top: 2px solid grey;
