@@ -17,6 +17,10 @@ h5 {
 
 /* Jumbotron */
 
+.jumbotron {
+  background: rgb(119, 119, 119, 0.3);
+}
+
 .hero {
   text-align: center;
 }
@@ -28,3 +32,16 @@ h5 {
 }
 
 /* Work */
+
+.cardContainer {
+  transition: all 0.4s;
+  padding: 20px;
+}
+
+.cardContainer:hover {
+  transform: scale(1.1);
+}
+
+.card-body {
+  background: rgb(119, 119, 119, 0.3);
+}
