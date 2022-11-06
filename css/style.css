@@ -1,4 +1,5 @@
-h2 {
+h2,
+.hero {
   text-align: center;
 }
 
@@ -18,10 +19,6 @@ h2 {
 
 .jumbotron {
   background: rgb(119, 119, 119, 0.3);
-}
-
-.hero {
-  text-align: center;
 }
 
 .jumbotron img {
