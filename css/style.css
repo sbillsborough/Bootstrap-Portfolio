@@ -55,3 +55,15 @@ h2,
   text-align: center;
   width: 50%;
 }
+
+/* About / Contact */
+
+.about-contact {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-areas: "information contact";
+}
+
+.contact {
+  text-align: center;
+}
