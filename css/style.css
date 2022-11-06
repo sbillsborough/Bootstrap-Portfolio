@@ -57,6 +57,7 @@ h2,
 .skills {
   background: var(--background-color);
   padding: 20px;
+  border-radius: 0.3rem;
 }
 
 .list-group {
@@ -69,6 +70,7 @@ h2,
 
 .about {
   background: var(--background-color);
+  border-radius: 0.3rem;
 }
 
 .about-info {
