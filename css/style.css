@@ -8,6 +8,11 @@ h2,
   text-align: center;
 }
 
+h2,
+h5 {
+  font-weight: 400;
+}
+
 /* Nav Bar */
 
 .logo {
@@ -104,7 +109,7 @@ footer {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  border-top: 2px solid grey;
+  border-top: 2px solid rgb(7, 124, 197);
 }
 
 footer a {
@@ -114,5 +119,5 @@ footer a {
 footer a:hover {
   transform: scale(1.1);
   transition: all 0.4s;
-  border-bottom: 2px solid lightblue;
+  border-bottom: 2px solid rgb(173, 216, 230);
 }
