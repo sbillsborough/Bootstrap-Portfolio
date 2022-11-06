@@ -10,7 +10,7 @@ h2,
 
 h2,
 h5 {
-  font-weight: 400;
+  font-weight: 360;
 }
 
 /* Nav Bar */
@@ -73,6 +73,10 @@ h5 {
 }
 
 /* About / Contact */
+
+.about-me {
+  margin-top: 20px;
+}
 
 .about {
   margin: 0 auto;
