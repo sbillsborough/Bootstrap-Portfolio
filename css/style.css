@@ -67,3 +67,21 @@ h2,
 .contact {
   text-align: center;
 }
+
+/* Footer */
+
+footer {
+  display: flex;
+  justify-content: center;
+  border-top: 2px solid grey;
+}
+
+footer a {
+  margin: 20px;
+}
+
+footer a:hover {
+  transform: scale(1.1);
+  transition: all 0.4s;
+  box-shadow: 0 2px 5px #000;
+}
