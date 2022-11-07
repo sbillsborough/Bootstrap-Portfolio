@@ -46,7 +46,6 @@ h5 {
 
 .cardContainer:hover {
   transform: scale(1.1);
-  cursor: pointer;
 }
 
 .card-body {
