@@ -33,7 +33,7 @@ Open the index.html in any modern browser.
 
 ## Live Application
 
-https://sbillsborough.github.io/portfolio-site
+https://sbillsborough.github.io/Bootstrap-Portfolio/
 
 ## Features
 
